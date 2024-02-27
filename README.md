@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priyanshu Kumar
 - 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on webDev
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/impriyanshusah/) [Twitter/X](https://twitter.com/p_sah_) 
 
 <!---
